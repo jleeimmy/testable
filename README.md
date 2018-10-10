@@ -11,7 +11,7 @@ Please use Cucumber with Capybara
 
 ## Setup
 
-Install dependencies Cucumber if you choose to use one of them:
+run
 ```
 gem install bundler
 ```
