@@ -1,0 +1,10 @@
+# rdoc generated
+rdoc
+
+# MacOS
+.DS_Store
+
+# bundler
+.bundle
+Gemfile.lock
+Gemfile.local
